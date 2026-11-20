@@ -1,0 +1,6 @@
+{
+  "name": "Lume",
+  "description": "Plataforma moderna de relacionamentos para conexões autênticas, descoberta inteligente e conversas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
